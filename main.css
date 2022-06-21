@@ -896,7 +896,8 @@ body {
   .quote-section .quote-img {
     position: absolute;
     height: 250px;
-    top: 25%; }
+    opacity: 0.8;
+    top: 15%; }
     /* line 1202, /Users/user/Desktop/portfolio-new/main.scss */
     .quote-section .quote-img img {
       height: 100%; }
